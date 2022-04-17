@@ -1,3 +1,2 @@
-This software is for demo perpose.
-This line added locally to create merge conflict
-Very important software
+This software is for demo perpose
+some to create merge conflict
